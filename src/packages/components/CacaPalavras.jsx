@@ -45,7 +45,7 @@ export default function CacaPalavras() {
 
   return (
     <div>
-      <h1>Caça Palavras</h1>
+      <h1>Caça-Palavras</h1>
 
       <input
         style={{ marginBottom: 10 }}
